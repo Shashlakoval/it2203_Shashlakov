@@ -5,7 +5,8 @@ prod by Shashlakov Alexandr
 repsitory made for mobile development
 
 ## Image
-![donut](/lab_2/images/donut.gif)
+
+[donut](/images/donut.gif)
 
 - 1
 - 2
