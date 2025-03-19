@@ -6,7 +6,7 @@ repsitory made for mobile development
 
 ## Image
 
-[donut](lab_2/lab2/images/donut.gif)
+[donut](lab_2/images/donut.gif)
 
 - 1
 - 2
