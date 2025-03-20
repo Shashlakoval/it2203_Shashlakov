@@ -2,12 +2,14 @@
 
 prod by Shashlakov Alexandr
 
-repsitory made for mobile development
+#
+
+### Repsitory made for mobile development
 
 ## Image
 
-[donut](lab_2/lab2/images/donut.gif)
+![donut]((images/donut.gif))
 
-- 1
-- 2
-- 3
+- 1-st 
+- 2-nd
+- 3-d
