@@ -8,7 +8,7 @@ prod by Shashlakov Alexandr
 
 ## Image
 
-![donut]((images/donut.gif))
+![donut](images/donut.gif)
 
 - 1-st 
 - 2-nd
